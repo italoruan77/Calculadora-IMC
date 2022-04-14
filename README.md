@@ -1,6 +1,6 @@
 <div align="center">
   
-  ## 🧍‍♂️📏 Calculadora De IMC
+  ## 🧍‍♂️📏 Calculadora De IMC ( Índice de Massa Corpórea )
   
 </div>
  <br>
@@ -8,7 +8,7 @@
 ### 🖥️ Screenshot & Demo
 
 <div align="center">
-<img src="" alt="Calculadora IMC" width="100%">
+<img src="https://d33wubrfki0l68.cloudfront.net/625849e77b8235000858d1d8/screenshot_2022-04-14-16-21-02-0000.png" alt="Calculadora IMC" width="100%">
 </div>
 
 
@@ -25,7 +25,7 @@ Aplicação simples e funcional para calcular IMC (Índice de Massa Corpórea) p
 
 
 ## 🎯 Principal Objetivo da Aplicação:
-<p> Calcular o IMC Recebendo os parâmetros <b>Peso</b> e <b>Altura</b> do Usuário e Retornando o resultado e tabela de referência com as respectivas cores de alerta com base no peso recomendado de cada pessoa.
+<p> Calcular o IMC recebendo os parâmetros <b>Peso</b> e <b>Altura</b> do usuário e retornando o resultado e tabela de referência com as respectivas cores de alerta com base no peso recomendado de cada pessoa.
 </p>
 
 <br>
