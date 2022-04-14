@@ -12,7 +12,7 @@
 </div>
 
 
-### 🌐 Demo Url: 
+### 🌐 Visualize a Demo: https://i77calculadora-imc.netlify.app/
 ou Execute o Arquivo ` index.html `
   
 <hr><br>
